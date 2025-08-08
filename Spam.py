@@ -1,4 +1,4 @@
-from time import sleep
+importtime import sleep
 import sys
 from colorama import Fore, Back, Style
 import random
