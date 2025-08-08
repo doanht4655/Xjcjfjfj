@@ -28,10 +28,10 @@ def logo(animation): #---LOGO---#
     logo = f"""
 {CSB(2, 0)}{CSB(1, 11)}╔════════════════════╗
 {CSB(2, 0)}{CSB(1, 11)}║                                      {CSB(1, 166)}【】{CSB(1, 10)}╔════════════════╗ {CSB(1, 11)}║
-{CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 46)}● {CSB(1, 166)}【】{CSB(1, 46)}║     GOLIKE THREAD TOOL     ║ {CSB(1, 11)}║
+{CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 46)}● {CSB(1, 166)}【】{CSB(1, 46)}║  GOLIKE THREAD TOOL   ║ {CSB(1, 11)}║
 {CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 47)}● {CSB(1, 166)}【】{CSB(1, 47)}║                  ║ {CSB(1, 11)}║
 {CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 48)} {CSB(1, 166)}【】{CSB(1, 48)}║ Create by: Bóng X  ║ {CSB(1, 11)}║
-{CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 49)}● {CSB(1, 166)}【】{CSB(1, 49)}║ Version: {CURRENT_VERSION}             ║ {CSB(1, 11)}║
+{CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 49)}● {CSB(1, 166)}【】{CSB(1, 49)}║ Version: {CURRENT_VERSION}      ║ {CSB(1, 11)}║
 {CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 50)}●{CSB(1, 166)}【】{CSB(1, 50)}║ Python: 3.12     ║ {CSB(1, 11)}║
 {CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 51)}●{CSB(1, 166)}【】{CSB(1, 51)}║                  ║ {CSB(1, 11)}║
 {CSB(2, 0)}{CSB(1, 11)}║ {CSB(1, 123)}●{CSB(1, 166)}【】{CSB(1, 123)}║                ║ {CSB(1, 11)}║
