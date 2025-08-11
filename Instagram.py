@@ -262,8 +262,8 @@ def banner():
 [1;32m[•] TOOL GOLIKE INSTAGRAM AUTO 100% VIP 👑
 [1;36m[•] Telegram: https://t.me/doanhvip1 👀
 [1;33m[•] ADMIN: Trần Đức Doanh 💤
-[1;31m[•] TIKTOK: 👉 @bongx_official 👈
-[1;34m[•] FACEBOOK: https://www.facebook.com/bongx.official
+[1;31m[•] TIKTOK: 👉 @doanh21105 👈
+[1;34m[•] FACEBOOK: https://www.facebook.com/đéo lộ
 [1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
     for X in banner:
