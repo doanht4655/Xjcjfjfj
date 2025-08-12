@@ -438,7 +438,7 @@ def LINKEDIN():
                                                 'account_id': account_id,
                                                 'object_id': object_id,
                                             }
-                                            try:
+                            16ekEpqVoh             try:
                                                 checkskipjob = ses.post(skipjob, params=PARAMS).json()
                                                 if checkskipjob.get('status') == 200:
                                                     message = checkskipjob.get('message', 'Đã bỏ qua job lỗi')
@@ -603,7 +603,7 @@ def banner():
 [1;36m[•] CONTACT: https://t.me/doanhvip1 💬
 [1;33m[•] ADMIN: Bóng X 🎯
 [1;31m[•] CHANNEL: @doanhvip1 📢
-[1;34m[•] FACEBOOK: https://www.facebook.com/share/16ekEpqVoh/
+[1;34m[•] FACEBOOK: https://www.facebook.com/share/ đéo cho 
 [1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
  for X in banner:
